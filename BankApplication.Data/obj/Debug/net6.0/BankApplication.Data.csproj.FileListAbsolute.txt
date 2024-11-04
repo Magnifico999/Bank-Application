@@ -1,0 +1,42 @@
+C:\Users\hp\Desktop\Bank\BankApplication.API\BankApplication.Data\bin\Debug\net6.0\BankApplication.Data.deps.json
+C:\Users\hp\Desktop\Bank\BankApplication.API\BankApplication.Data\bin\Debug\net6.0\BankApplication.Data.runtimeconfig.json
+C:\Users\hp\Desktop\Bank\BankApplication.API\BankApplication.Data\bin\Debug\net6.0\BankApplication.Data.dll
+C:\Users\hp\Desktop\Bank\BankApplication.API\BankApplication.Data\bin\Debug\net6.0\BankApplication.Data.pdb
+C:\Users\hp\Desktop\Bank\BankApplication.API\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Bank\BankApplication.API\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Bank\BankApplication.API\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Bank\BankApplication.API\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.AssemblyInfo.cs
+C:\Users\hp\Desktop\Bank\BankApplication.API\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Bank\BankApplication.API\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.dll
+C:\Users\hp\Desktop\Bank\BankApplication.API\BankApplication.Data\obj\Debug\net6.0\refint\BankApplication.Data.dll
+C:\Users\hp\Desktop\Bank\BankApplication.API\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.pdb
+C:\Users\hp\Desktop\Bank\BankApplication.API\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.genruntimeconfig.cache
+C:\Users\hp\Desktop\Bank\BankApplication.API\BankApplication.Data\obj\Debug\net6.0\ref\BankApplication.Data.dll
+C:\Users\hp\Desktop\BankApplication\BankApplication.Data\bin\Debug\net6.0\BankApplication.Data.deps.json
+C:\Users\hp\Desktop\BankApplication\BankApplication.Data\bin\Debug\net6.0\BankApplication.Data.runtimeconfig.json
+C:\Users\hp\Desktop\BankApplication\BankApplication.Data\bin\Debug\net6.0\BankApplication.Data.dll
+C:\Users\hp\Desktop\BankApplication\BankApplication.Data\bin\Debug\net6.0\BankApplication.Data.pdb
+C:\Users\hp\Desktop\BankApplication\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\BankApplication\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BankApplication\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BankApplication\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.AssemblyInfo.cs
+C:\Users\hp\Desktop\BankApplication\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BankApplication\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.dll
+C:\Users\hp\Desktop\BankApplication\BankApplication.Data\obj\Debug\net6.0\refint\BankApplication.Data.dll
+C:\Users\hp\Desktop\BankApplication\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.pdb
+C:\Users\hp\Desktop\BankApplication\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.genruntimeconfig.cache
+C:\Users\hp\Desktop\BankApplication\BankApplication.Data\obj\Debug\net6.0\ref\BankApplication.Data.dll
+C:\Users\hp\Desktop\BankApplication - Copy\BankApplication.Data\bin\Debug\net6.0\BankApplication.Data.deps.json
+C:\Users\hp\Desktop\BankApplication - Copy\BankApplication.Data\bin\Debug\net6.0\BankApplication.Data.runtimeconfig.json
+C:\Users\hp\Desktop\BankApplication - Copy\BankApplication.Data\bin\Debug\net6.0\BankApplication.Data.dll
+C:\Users\hp\Desktop\BankApplication - Copy\BankApplication.Data\bin\Debug\net6.0\BankApplication.Data.pdb
+C:\Users\hp\Desktop\BankApplication - Copy\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\BankApplication - Copy\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\BankApplication - Copy\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\BankApplication - Copy\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.AssemblyInfo.cs
+C:\Users\hp\Desktop\BankApplication - Copy\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\BankApplication - Copy\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.dll
+C:\Users\hp\Desktop\BankApplication - Copy\BankApplication.Data\obj\Debug\net6.0\refint\BankApplication.Data.dll
+C:\Users\hp\Desktop\BankApplication - Copy\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.pdb
+C:\Users\hp\Desktop\BankApplication - Copy\BankApplication.Data\obj\Debug\net6.0\BankApplication.Data.genruntimeconfig.cache
+C:\Users\hp\Desktop\BankApplication - Copy\BankApplication.Data\obj\Debug\net6.0\ref\BankApplication.Data.dll
